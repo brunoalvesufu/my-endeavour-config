@@ -9,7 +9,6 @@
 #ZSH and Oh My ZSH:
 !.p10k.zsh
 !.zshrc
-!.zsh_history
 
 # Kitty terminal:
 !.config/
