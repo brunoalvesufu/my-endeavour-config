@@ -3,7 +3,7 @@
 
 # List here files to include:
 !.gitignore
-!LICENSE.txt
+!LICENSE
 !README.md
 
 #ZSH and Oh My ZSH:
