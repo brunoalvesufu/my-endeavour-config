@@ -1,0 +1,16 @@
+# Ignore all files:
+*
+
+# List here files to include:
+!.gitignore
+
+#ZSH and Oh My ZSH:
+!.p10k.zsh
+!.zshrc
+!.zsh_history
+
+# Kitty terminal:
+!.config/
+!.config/kitty/
+!.config/kitty/**
+
