@@ -115,8 +115,8 @@ source <(fzf --zsh)
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-alias zshconfig="kate ~/.zshrc"
-alias ohmyzsh="kate ~/.oh-my-zsh"
+alias zshconfig="nvim ~/.zshrc"
+alias ohmyzsh="nvim ~/.oh-my-zsh"
 alias l="eza --icons"
 alias ls="eza -a --icons"
 alias ll="eza -lh --icons"
